@@ -20,7 +20,7 @@ I'm a passionate **Software Engineer (Data)** with strong foundations in **Pytho
 - 🧠 Libraries: NumPy, Pandas, Matplotlib, Seaborn  
 - 🗃️ Databases: MySQL  
 - 🌐 Web: HTML, CSS, JavaScript, AJAX, Laravel, CodeIgniter  
-- 🧰 Tools: Git, VS Code, Jupyter, Selenium, Power BI, Tableau  
+- 🧰 Tools: VS Code, Jupyter, Selenium, Power BI, Tableau  
 
 ---
 

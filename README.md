@@ -17,7 +17,7 @@ I'm a passionate **Software Engineer (Data)** with strong foundations in **Pytho
 </p>
 
 - 💻 Languages: Python, C++, Perl, PHP, JavaScript  
-- 🧠 Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
+- 🧠 Libraries: NumPy, Pandas, Matplotlib, Seaborn  
 - 🗃️ Databases: MySQL  
 - 🌐 Web: HTML, CSS, JavaScript, AJAX, Laravel, CodeIgniter  
 - 🧰 Tools: Git, VS Code, Jupyter, Selenium, Power BI, Tableau  

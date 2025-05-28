@@ -45,7 +45,7 @@ I'm a passionate **Software Engineer (Data)** with strong foundations in **Pytho
 
 - 👩‍💻 **Software Engineer (Data)**  
   🏢 Proseon Technologies Pvt. Ltd.  
-  📅 Jan 2021 – Present  
+  📅 Jan 2021 – Feb 2024  
 
 - 🌐 **Web Developer**  
   🏢 SourrceCube Technologies Pvt. Ltd.  
@@ -55,8 +55,7 @@ I'm a passionate **Software Engineer (Data)** with strong foundations in **Pytho
 
 ## 🎓 Certifications
 
-- ✅ **Data Science & Machine Learning** – Skillovilla  
-- 📜 [You can add more certifications here later]
+- ✅ **Data Science & Machine Learning** – Skillovilla
 
 ---
 
